@@ -1,4 +1,9 @@
 # Comparitive-Analysis-between-Binary-Classifiers
+This Web Application created by Streamlit, Pandas, NumPy and Scikitlearn libraries and modules of Python which compares the three Binary Classification Algorithms:
+1. Random Forest Classifier
+2. Logistic Regression Classifier
+3. Support Vector Machine (SVM) Classifier
+This web application also plots the ROC Curve, Confusion Matrix and Precision Recall Curve.
 <img width="1440" alt="Screenshot 2022-06-05 at 5 05 39 PM" src="https://user-images.githubusercontent.com/76950603/172048588-86962e8e-af2b-4551-8dd0-290ca1bed1d2.png">
 
 <img width="1440" alt="Screenshot 2022-06-05 at 5 06 04 PM" src="https://user-images.githubusercontent.com/76950603/172048596-d2c22bac-0b56-4a7b-8772-14f31511266b.png">
